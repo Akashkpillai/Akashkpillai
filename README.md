@@ -3,7 +3,7 @@
 <h3 align="center">A Self taught MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **MERN**
 
