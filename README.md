@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
+
 <h1 align="center">Hi 👋, I'm Akash k pillai</h1>
 <h3 align="center">A Self taught MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
