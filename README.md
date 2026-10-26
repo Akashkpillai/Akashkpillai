@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 Reach me at **[akashkpillai.github.io/Personal-Website](https://akashkpillai.github.io/Personal-Website/)**
+- 📫 Reach me at **[akashkpillai.github.io/Personal-Website](https://akash-protfolio-six.vercel.app/)**
 
 <br/>
 
